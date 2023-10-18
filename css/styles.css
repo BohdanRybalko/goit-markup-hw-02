@@ -36,6 +36,7 @@ body{
 } 
 .header-nav-mod {
             list-style: none;
+            color:#434455 ;
 }
 .header-ads{
         font-weight: 500;
@@ -44,7 +45,7 @@ body{
         line-height: 1.5;
         list-style: none;
         text-decoration: none;
-        color: #434455;
+        color: var(--brand-color);
 
     }
     .header-ads:hover{color: var(--section-hover-focus);
